@@ -1,0 +1,5 @@
+docker-compose up -d
+cd ./Produser
+./gradlew bootRun &
+cd ../Consumer
+./gradlew bootRun &
