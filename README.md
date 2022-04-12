@@ -1,6 +1,6 @@
-# IT WAS LONG BEFORE I GUESS..
+# REACTIVE WEBSOCKET AND KAFKA
 
-##  Next time read the follownig first
+##  Experimenting with Spring WebFlux, Kafka and Websockets
 
 
 https://github.com/bitnami/bitnami-docker-kafka
